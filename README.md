@@ -1,12 +1,13 @@
 # Hi, nice to meet you
 ## I'm Apolo Wilker
 - I live in :brazil:.
-
+-
+### Welcome to my github
 
 ## Connect with me:
 
 <a href="www.linkedin.com/in/apolowilker" target="_blank">
-<img align="center" alt="apolo-linkedin" height ="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+<img align="center" alt="apolo-linkedin" height ="35" width="45" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"
 style="max-width:100%;">
 </a>
 <a href="https://https://www.instagram.com/adv.agora.dev/" target="_blank">
@@ -15,7 +16,7 @@ style="max-width:100%;">
 </a>
 
 <a href="wilkerapolocarvalho@gmail.com" target="_blank">
-<img align="center" alt="apolo-email" height ="35" width="45" src="https://img.icons8.com/doodle/2x/gmail.png"
+<img align="center" alt="apolo-email" height ="35" width="45" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg"
 style="max-width:100%;">
 </a>
 
