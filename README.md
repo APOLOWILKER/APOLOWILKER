@@ -15,7 +15,7 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
 <a href="mailto:apolowilkercarvalho@gmail.com">
-  <code><img alt="e-mail - Apolo" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img align="center" alt="e-mail - Apolo" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
 ## My Skills
@@ -35,6 +35,11 @@ style="max-width:100%;">
 ![Apolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=APOLOWILKER&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER)](https://github.com/APOLOWILKER/github-readme-stats)
 
+<p align="right">
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/viniciusrma/viniciusrma" alt="Visitors badge" />
+  </a>
+</p>
 <!---
 APOLOWILKER/APOLOWILKER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
