@@ -25,9 +25,12 @@ style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
 
+----
+
 [![Linkedin Badge](https://img.shields.io/badge/-apolowiker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apolowilker/)](https://www.linkedin.com/in/viniciusrma/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilkerapolocarvalho@gmail.com)](mailto:viniciusrma.dev@gmail.com)
 
+----
 
 ![Apolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=APOLOWILKER&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER)](https://github.com/APOLOWILKER/github-readme-stats)
