@@ -13,7 +13,7 @@
 <img align="center" alt="apolo-linkedin" height ="35" width="45" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"
 style="max-width:100%;">
 </a>
-<a href="https://https://www.instagram.com/adv.agora.dev/" target="_blank">
+<a href="https://https://www.instagram.com/agoradevweb/" target="_blank">
 <img align="center" alt="apolo-instagram" height ="35" width="45" src="https://img.icons8.com/fluent/2x/instagram-new.png"
 style="max-width:100%;">
 </a>
