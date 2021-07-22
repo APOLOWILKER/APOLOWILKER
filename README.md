@@ -7,28 +7,12 @@
 
 ### Welcome to my github
 
-## Connect with me:
-
-<a href="www.linkedin.com/in/apolowilker" target="_blank">
-<img align="center" alt="apolo-linkedin" height ="35" width="45" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"
-style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/agoradevweb/" target="_blank">
-<img align="center" alt="apolo-instagram" height ="35" width="45" src="https://img.icons8.com/fluent/2x/instagram-new.png"
-style="max-width:100%;">
-</a>
-<a href="mailto:apolowilkercarvalho@gmail.com">
-  <code><img align="center" alt="e-mail - Apolo" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
-
 ## My Skills
-### Learning
-:abacus: :notebook: :desktop_computer:
+### Learning :abacus: :notebook: :desktop_computer:
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" style="max-width:100%;"></img>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" style="max-width:100%;"></img>
 
 ----
 
@@ -38,10 +22,22 @@ style="max-width:100%;">
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/apolowilker/apolowilker" alt="Visitors badge" />
+    <img src="https://badges.pufler.dev/visits/apolowilker/apolowilker" alt="Apolo badge" />
   </a>
 </p>
+## Connect with me:
 
+<a href="www.linkedin.com/in/apolowilker" target="_blank">
+<img align="center" alt="apolo-linkedin" height ="33" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"
+style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/agoradevweb/" target="_blank">
+<img align="center" alt="apolo-instagram" height ="35" width="45" src="https://img.icons8.com/fluent/2x/instagram-new.png"
+style="max-width:100%;">
+</a>
+<a href="mailto:apolowilkercarvalho@gmail.com">
+  <code><img align="center" alt="e-mail - Apolo" height ="35" width="45" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
 <!---
 APOLOWILKER/APOLOWILKER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
