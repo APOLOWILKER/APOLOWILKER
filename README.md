@@ -15,8 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" style="max-width:100%;"></img>
 
 ----
-
-
 ![Apolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=APOLOWILKER&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER)](https://github.com/APOLOWILKER/github-readme-stats)
 
@@ -25,6 +23,9 @@
     <img src="https://badges.pufler.dev/visits/apolowilker/apolowilker" alt="Apolo badge" />
   </a>
 </p>
+
+----
+
 ## Connect with me:
 
 <a href="www.linkedin.com/in/apolowilker" target="_blank">
