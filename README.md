@@ -31,7 +31,7 @@
   style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/agoradevweb/" target="_blank">
-  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.icons8.com/fluent/2x/instagram-new.png"
+  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.icons8.com/instagram"
   style="max-width:100%;">
   </a>
   <a href="mailto:apolowilkercarvalho@gmail.com" target="_blank">
