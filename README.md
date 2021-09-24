@@ -31,11 +31,11 @@
   style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/agoradevweb/" target="_blank">
-  <img align="center" alt="apolo-instagram" height ="35" width="45" src="https://img.icons8.com/fluent/2x/instagram-new.png"
+  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.icons8.com/fluent/2x/instagram-new.png"
   style="max-width:100%;">
   </a>
-  <a href="mailto:apolowilkercarvalho@gmail.com">
-    <code><img align="center" alt="e-mail - Apolo" height ="35" width="45" src="https://img.icons8.com/email" /></code>
+  <a href="mailto:apolowilkercarvalho@gmail.com" target="_blank">
+    <code><img align="center" alt="e-mail - Apolo" height ="33" width="40" src="https://img.icons8.com/email" /></code>
   </a>
 </div>  
   
