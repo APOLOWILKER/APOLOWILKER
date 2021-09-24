@@ -27,7 +27,7 @@
 
  <div>
     <a href="www.linkedin.com/in/apolowilker" target="_blank">
-    <img align="center" alt="apolo-linkedin" height ="33" width="40"        src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"
+    <img align="center" alt="apolo-linkedin" height ="33" width="40" src="https://img.icons8.com/linkedin"
   style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/agoradevweb/" target="_blank">
@@ -35,7 +35,7 @@
   style="max-width:100%;">
   </a>
   <a href="mailto:apolowilkercarvalho@gmail.com">
-    <code><img align="center" alt="e-mail - Apolo" height ="35" width="45" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+    <code><img align="center" alt="e-mail - Apolo" height ="35" width="45" src="https://img.icons8.com/email" /></code>
   </a>
 </div>  
   
