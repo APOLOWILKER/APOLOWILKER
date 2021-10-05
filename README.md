@@ -19,7 +19,8 @@
   <img align="center" alt="Apolo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Apolo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Apolo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Apolo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Apolo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Apolo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 
@@ -27,15 +28,17 @@
 
  <div>
     <a href="www.linkedin.com/in/apolowilker" target="_blank">
-    <img align="center" alt="apolo-linkedin" height ="33" width="40" src="https://img.icons8.com/color/linkedin"
+    <img align="center" alt="apolo-linkedin" height ="33" width="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   style="max-width:100%;">
   </a>
+   
   <a href="https://www.instagram.com/agoradevweb/" target="_blank">
-  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.icons8.com/color/instagram"
+  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   style="max-width:100%;">
   </a>
+   
   <a href="mailto:apolowilkercarvalho@gmail.com" target="_blank">
-    <code><img align="center" alt="e-mail - Apolo" height ="33" width="40" src="https://img.icons8.com/color/email" /></code>
+    <code><img align="center" alt="e-mail - Apolo" height ="33" width="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></code>
   </a>
 </div>  
   
