@@ -28,17 +28,17 @@
 
  <div>
     <a href="www.linkedin.com/in/apolowilker" target="_blank">
-    <img align="center" alt="apolo-linkedin" height ="33" width="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img align="center" alt="apolo-linkedin" height ="33" width="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
   style="max-width:100%;">
   </a>
    
   <a href="https://www.instagram.com/agoradevweb/" target="_blank">
-  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <img align="center" alt="apolo-instagram" height ="33" width="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
   style="max-width:100%;">
   </a>
    
   <a href="mailto:apolowilkercarvalho@gmail.com" target="_blank">
-    <code><img align="center" alt="e-mail - Apolo" height ="33" width="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></code>
+    <code><img align="center" alt="e-mail - Apolo" height ="33" width="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="max-width:100%;">
   </a>
 </div>  
   
