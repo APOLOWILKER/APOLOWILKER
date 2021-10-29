@@ -23,6 +23,7 @@
   <img align="center" alt="Apolo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Apolo-linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
   <img align="center" alt="Apolo-Jest" height="30" width="40" width="26px" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" />
+  <img align="center" alt="Apolo-Jest" height="30" width="40" width="26px" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" />
 
 
 </div>
