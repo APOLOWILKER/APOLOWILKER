@@ -1,8 +1,8 @@
-<h1 align="center">Hi, my name is Apolo Wilker</h1>
+<h1 align="center">Olá, Seja Bem-Vindo!! Meu nome é Apolo Wilker</h1>
 
 
-- I live in :brazil: sou um advogado que esta estudando na escola de programação [Trybe](https://www.betrybe.com/) e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira.
-- I’m interested in ...games, animes, tecnologia, e de ensinar.
+- Moro no :brazil: sou um advogado que esta estudando na escola de programação [Trybe](https://www.betrybe.com/) e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de front-End da Trybe.
+- Meus interesses são...games, animes, tecnologia, e de ensinar.
 
 <h2 align="center"> Welcome to my gitHub</h2>
 
