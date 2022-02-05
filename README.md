@@ -22,8 +22,8 @@
   <img align="center" alt="Apolo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Apolo-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Apolo-TypeScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Apolo-linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
-  <img align="center" alt="Apolo-Jest" height="30" width="35" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" />
+  <img align="center" alt="Apolo-linux" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" />
+  <img align="center" alt="Apolo-Jest" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
   <img align="center" alt="Apolo-RTL" height="35" width="40" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" />
   <img align="center" alt="Apolo-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Apolo-SQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
