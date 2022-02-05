@@ -2,7 +2,7 @@
 
 
 - Moro no :brazil: sou um advogado que esta estudando na escola de programação [Trybe](https://www.betrybe.com/) e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de front-End da Trybe.
-- Meus interesses são...games, animes, tecnologia, e de ensinar.
+- Meus interesses são...games, animes, tecnologia, e ensinar.
 
 <h2 align="center"> Welcome to my gitHub</h2>
 
