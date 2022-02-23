@@ -1,8 +1,14 @@
 <h1 align="center">Olá, Seja Bem-Vindo(a)!! Meu nome é Apolo Wilker</h1>
 
+- 👨🏽‍💻 Moro no :brazil: sou um advogado que esta estudando na escola de programação [Trybe](https://www.betrybe.com/) e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de front-End da Trybe;
+- 🌱 Estou aprendendo back-end em Node JS; 
+- 🤔 Meus hobbies são leitura e jogos online;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações.
 
-- Moro no :brazil: sou um advogado que esta estudando na escola de programação [Trybe](https://www.betrybe.com/) e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de front-End da Trybe.
-- Meus interesses são...Tecnologia, ensino, games e animes.
+<br />
+<br />
 
 <h2 align="center"> Welcome to my gitHub</h2>
 
