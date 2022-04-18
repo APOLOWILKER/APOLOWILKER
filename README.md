@@ -4,7 +4,7 @@ Hi 👋 My name is APOLO WILKER
 Web developer - Full-Stack
 -------------------------
 
-Moro no brazil sou um ex-advogado que esta estudando na escola de programação Trybe e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de Front-End da Trybe; Estou aprendendo back-end em Node JS; 
+Sou um ex-advogado que esta estudando na escola de programação Trybe e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de Front-End da Trybe; Estou aprendendo back-end em Node JS; 
 
 Meus hobbies são leitura e jogos online; 
 Estou adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
@@ -73,7 +73,7 @@ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
   <a href="http://www.github.com/APOLOWILKER"><img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=APOLOWILKER&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  <br/>
 <div>
   <p align="right">
     <a href="https://badges.pufler.dev">
