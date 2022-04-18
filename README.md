@@ -1,4 +1,4 @@
-Hi 👋 My name is APOLO WILKER
+Olá 👋 meu nome é APOLO WILKER
 =============================
 
 Web developer - Full-Stack
@@ -10,13 +10,13 @@ Web developer - Full-Stack
 * 👓 Estou adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
 * ❓ 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 
-* 🌍  I'm based in Goiânia, GO
-* 🖥️  See my portfolio at [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
-* ✉️  You can contact me at [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🌍  🇧🇷  Goiânia, GO
+* 🖥️  Veja meu portifólio aqui [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
+* ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com)
+* 🧠  No momento eu estou aprendendo TypeScript.
 
 
-### Skills - Learning :abacus: :notebook: :desktop_computer:
+### Skills - Aprendendo :abacus: :notebook: :desktop_computer:
 <!--   https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg -->
   
 <p align="left">
@@ -52,7 +52,7 @@ Web developer - Full-Stack
 </p>
 
   
-### Socials
+### Redes Sociais
 
   <p align="left"> 
     <a href="https://codepen.io/apolowilker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> 
