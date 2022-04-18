@@ -16,7 +16,7 @@ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 * 🧠  I'm learning TypeScript
 
 
-### Skills - Learning :abacus: :notebook: :desktop_computer
+### Skills - Learning :abacus: :notebook: :desktop_computer:
 <!--   https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg -->
   
 <p align="left">
