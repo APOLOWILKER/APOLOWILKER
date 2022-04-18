@@ -4,11 +4,11 @@ Hi 👋 My name is APOLO WILKER
 Web developer - Full-Stack
 -------------------------
 
-Sou um ex-advogado que esta estudando na escola de programação Trybe e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de Front-End da Trybe; Estou aprendendo back-end em Node JS; 
+* Sou um ex-advogado que esta estudando na escola de programação Trybe e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de Front-End da Trybe; Estou aprendendo back-end em Node JS; 
 
-Meus hobbies são leitura e jogos online; 
-Estou adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
-Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+* 🎮 📖 Meus hobbies são leitura e jogos online; 
+* 👓 Estou adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
+* ❓ 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 
 * 🌍  I'm based in Goiânia, GO
 * 🖥️  See my portfolio at [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
@@ -45,6 +45,8 @@ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
   <img  alt="Apolo-Docker"  width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
   <img  alt="Apolo-SQL"  width="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Apolo-Mongo-DB" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img  alt="Sequelize"  width="40" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667">
+    <img alt="Mocha" width="40" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667">
  
 </p>
 
