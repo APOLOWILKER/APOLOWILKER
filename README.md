@@ -38,14 +38,14 @@ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   
-   <img align="center" alt="Apolo-GIT" height="36" width="36" src="https://img.icons8.com/color/48/000000/git.png">
- <img align="center" alt="Apolo-linux" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" />
-  <img align="center" alt="Apolo-Jest" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Apolo-RTL" height="36" width="36" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" />
-  <img align="center" alt="Apolo-Docker" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Apolo-SQL" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Apolo-Mongo-DB" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Apolo-NODE" height="36" width="36" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img  alt="Apolo-GIT"  width="48" src="https://img.icons8.com/color/48/000000/git.png">
+ <img  alt="Apolo-linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" />
+  <img alt="Apolo-Jest"  width="48" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+  <img  alt="Apolo-RTL"  width="45" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" />
+  <img  alt="Apolo-Docker"  width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
+  <img  alt="Apolo-SQL"  width="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Apolo-Mongo-DB" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+ 
 </p>
 
   
