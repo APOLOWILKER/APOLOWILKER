@@ -1,25 +1,22 @@
 Olá 👋 meu nome é APOLO WILKER
 =============================
 
-Web developer - Full-Stack
+Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 -------------------------
 
 * Sou um ex-advogado que esta estudando na escola de programação Trybe e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de Front-End da Trybe; Estou aprendendo back-end em Node JS; 
 
-* 🎮 📖 Meus hobbies são leitura e jogos online; 
-* 👓 Estou adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
-* ❓ 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-
-* 🌍  🇧🇷  Goiânia, GO
+* 🎮 📖 Meus hobbies são leitura e jogos online; -- 👓 Sempre adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
 * 🖥️  Veja meu portifólio aqui [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
-* ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com)
+* ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com).
+* ❓ 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 * 🧠  No momento eu estou aprendendo TypeScript.
 
 
 ### Skills - Aprendendo :abacus: :notebook: :desktop_computer:
 <!--   https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg -->
   
-<p align="left">
+<p align="center" width="70%">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -51,6 +48,16 @@ Web developer - Full-Stack
  
 </p>
 
+ 
+ 
+ 
+  ### My GitHub Stats
+<div align="center">
+  <a href="https://github.com/APOLOWILKER">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=APOLOWILKER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="http://www.github.com/APOLOWILKER"><img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=APOLOWILKER&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 ### Redes Sociais
 
@@ -65,18 +72,8 @@ Web developer - Full-Stack
     <a href="https://www.youtube.com/channel/UCoyHazjRBTko4CEIu7_hkOQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
     <a href="http://www.instagram.com/agoradevweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
  </p>
- 
- 
-  ### Badges
-
-<b>My GitHub Stats</b>
-<div align="center">
-  <a href="https://github.com/APOLOWILKER">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=APOLOWILKER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="http://www.github.com/APOLOWILKER"><img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=APOLOWILKER&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   <br/>
+  
 <div>
   <p align="right">
     <a href="https://badges.pufler.dev">
