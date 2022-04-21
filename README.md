@@ -55,7 +55,6 @@ Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 <div align="center">
   <a href="https://github.com/APOLOWILKER">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=APOLOWILKER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="http://www.github.com/APOLOWILKER"><img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=APOLOWILKER&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
