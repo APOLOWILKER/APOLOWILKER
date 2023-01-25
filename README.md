@@ -45,19 +45,10 @@ Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
   <img  alt="Sequelize"  width="40" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667">
     <img alt="Mocha" width="40" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667">
    <img alt="Mocha" width="40" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67">
- 
 </p>
 
  
  
- 
-  ### My GitHub Stats
-<div align="center">
-  <a href="https://github.com/APOLOWILKER">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=APOLOWILKER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOLOWILKER&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
 ### Redes Sociais
 
   <p align="left"> 
