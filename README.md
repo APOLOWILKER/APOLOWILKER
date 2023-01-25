@@ -4,7 +4,7 @@ Olá 👋 meu nome é APOLO WILKER
 Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 -------------------------
 
-* Sou um ex-advogado que esta estudando na escola de programação Trybe e estou aprendendo desenvolvimento WEB para realizar a minha mudança de carreira. Atualmente finalizei o modulo de Front-End da Trybe; Estou aprendendo back-end em Node JS; 
+* Sou um ex-advogado que fez a sua mudança de carreira e hoje sou desenvolvedor na MercadoLivre.
 
 * 🎮 📖 Meus hobbies são leitura e jogos online; -- 👓 Sempre adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
 * 🖥️  Veja meu portifólio aqui [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
