@@ -4,7 +4,7 @@ Olá 👋 meu nome é APOLO WILKER
 Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 -------------------------
 
-* Sou um ex-advogado que fez a sua mudança de carreira e hoje sou desenvolvedor na MercadoLivre.
+* Sou desenvolvedor web que era advogado e adora utilizar a logica e as regras para resolver problemas.
 
 * 🎮 📖 Meus hobbies são leitura e jogos online; -- 👓 Sempre adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
 * 🖥️  Veja meu portifólio aqui [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
