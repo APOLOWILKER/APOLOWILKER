@@ -7,7 +7,6 @@ Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 * Olá! 👋 Sou um Desenvolvedor Web apaixonado, focado em criar experiências digitais excepcionais e gerar impacto positivo por meio de soluções inovadoras. Ao longo da minha jornada, destaquei-me na entrega de resultados tangíveis, moldando projetos que melhoraram significativamente a eficiência operacional e a experiência dos usuários internos.
 
 * 🎮 📖 Meus hobbies são leitura e jogos online; -- 👓 Sempre adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
-* 🖥️  Veja meu portifólio aqui [Meu Portifolio](http://portfolio-red-psi.vercel.app/)
 * ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com).
 * ❓ 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 * 🧠  No momento eu estou aprendendo TypeScript.
