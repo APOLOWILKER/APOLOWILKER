@@ -9,7 +9,7 @@ Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 * 🎮 📖 Meus hobbies são leitura e jogos online; -- 👓 Sempre adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
 * ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com).
 * ❓ 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-* 🧠  No momento eu estou aprendendo TypeScript.
+* 🧠  No momento eu estou aprendendo C#.
 
 
 ### Skills - Aprendendo :abacus: :notebook: :desktop_computer:
