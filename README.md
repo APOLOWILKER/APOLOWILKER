@@ -1,10 +1,9 @@
 Olá 👋 meu nome é APOLO WILKER
 =============================
-
-Web developer - Full-Stack -- 🌍  🇧🇷  Goiânia, GO
+Full-Stack -- 🌍  🇧🇷  Goiânia, GO
 -------------------------
 
-* Olá! 👋 Sou um Desenvolvedor Web apaixonado, focado em criar experiências digitais excepcionais e gerar impacto positivo por meio de soluções inovadoras. Ao longo da minha jornada, destaquei-me na entrega de resultados tangíveis, moldando projetos que melhoraram significativamente a eficiência operacional e a experiência dos usuários internos.
+* Olá! 👋 Sou um Desenvolvedor de software apaixonado, focado em criar experiências digitais excepcionais e gerar impacto positivo por meio de soluções inovadoras. Ao longo da minha jornada, destaquei-me na entrega de resultados tangíveis, moldando projetos que melhoraram significativamente a eficiência operacional e a experiência dos usuários internos.
 
 * 🎮 📖 Meus hobbies são leitura e jogos online; -- 👓 Sempre adquirindo conhecimento para evoluir na minha carreira de desenvolvedor; 
 * ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com).
