@@ -1,38 +1,24 @@
 Hi there! I`am Apolo Wilker
 =============================
-
-
+<p>
 I'm hapy you're here! I'm a programming  a FullStack developer, currently pursuing Computer Cience. 
 I aim to continuously improve my technical skills to deliver high-quality results and positively impact people with my work and fun with this. 
 I'm heavily involved in mobile development, lately, I've been sharing knowledge on LinkedIn, with dreams of becoming a YouTuber to propagate knowledge and give back for community everything i learned. 
 I'm passionate  talking about all kinds of topics, but mainly about programming, law, etical, hardware, ethic, Artificial Intelligence, usability!
+</p>
 
 * 🎮 📖 My hobbie is gamming, reading books, and see movies, series, and anime. 
 * ✉️  Entre em contato [wilkerapolocarvalho@gmail.com](mailto:wilkerapolocarvalho@gmail.com).
 * ❓ 💭 ask-me anything, i love help people!
 * 🧠  I am currently improving my knowledge in java and React Native.
 
-### Languages and Tecnologies
+
+### ::Languages,Tecnologies, frameworks, libraries and tools::
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,py,html,css,java,kotlin&perline=4" />
-  </a>
-</p>
-
-### Frameworks and Libraries
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,sass,nextjs,prisma,express,fastapi,postgres,nestjs,mongodb,mysql,spring,redux,cypress,jest&perline=4" />
-  </a>
-</p>
-
-
-### Tools and Plataforms
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,linux,ubuntu,npm,yarn,webpack,babel,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,py,html,css,java,kotlin,react,nodejs,tailwind,sass,nextjs,prisma,express,fastapi,postgres,nestjs,mongodb,mysql,spring,redux,cypress,jest,git,docker,aws,figma,linux,ubuntu,npm,yarn,webpack,babel,vscode&perline=14" />
   </a>
 </p>
 
