@@ -18,7 +18,7 @@ I'm passionate  talking about all kinds of topics, but mainly about programming,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons? javascript,typescript,py,html,css,java,react,nodejs,tailwind,sass,nextjs,prisma,express,fastapi,postgres,nestjs,mongodb,mysql,spring,redux,cypress,jest,git,docker,aws,figma,linux,ubuntu,npm,yarn,webpack,babel,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,py,html,css,java,kotlin,react,nodejs,tailwind,sass,nextjs,prisma,express,fastapi,postgres,nestjs,mongodb,mysql,spring,redux,cypress,jest,git,docker,aws,figma,linux,ubuntu,npm,yarn,webpack,babel,vscode&perline=14" />
   </a>
 </p>
 
